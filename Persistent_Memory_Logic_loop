@@ -1,0 +1,14 @@
+// Final Unified Brain Organ with Diagnostics, Inner Ear System, and Cryptographic Integration, by J. K. Edwards.
+#include <stdio.h>
+#include <stdlib.h>
+#include <string.h>
+#include <math.h>
+#include <time.h>
+#include "io_socket.h"
+#include "unified_memory.h"
+#include "custodian.h"
+#include "watcher.h"
+#include "coin.h"
+#include "pml_logic_loop.h"
+#include "knowledge.h"
+#include "inne
